@@ -1,0 +1,202 @@
+"id.pop","Species","source","n.study.years","first.study.year","last.study.year","n.clutches","n.broods","protected.area","protected.nests","nest..boxes","slope","slope.SE"
+1,"Accipiter cooperi ","Robert N. Rosenfield ",39,1980,2018,669,1,0,0,0,0.025,0.014
+2,"Accipiter gentilis ","Jan Tøttrup Nielsen ",41,1977,2017,2006,1,0,0,0,-0.007,0.014
+3,"Accipiter gentilis ","Jere Tolvanen ",29,1990,2018,413,1,0,0,0,-0.019,0.023
+4,"Accipiter nisus ","Jan Tøttrup Nielsen ",19,1978,1997,649,1,0,0,0,0.08,0.036
+5,"Acrocephalus scirpaceus ","Lucyna Halupka ",14,1980,2012,816,2,1,0,0,0.053,0.018
+6,"Aegolius funereus ","Markéta Zárybnická ",19,2000,2018,323,1,0,0,1,-0.018,0.044
+7,"Aegolius funereus ","Pierre-Alain Ravussin ",32,1987,2018,614,1,0,1,1,-0.003,0.02
+8,"Aegolius funereus ","Erkki Korpimäki ",21,1977,1997,921,1,0,0,1,-0.062,0.035
+9,"Aethia cristatella ","Pietrzak et al. (2017) ",29,1988,2017,1608,1,1,0,0,0.008,0.022
+10,"Aethia cristatella ","Elena Yu. Golubova ",28,1987,2018,1576,1,1,0,0,-0.038,0.019
+11,"Aethia psittacula ","Pietrzak et al. (2017) ",26,1991,2017,1223,1,1,0,0,-0.012,0.026
+12,"Aethia psittacula ","Evans et al (2017) ",15,1976,2017,523,1,1,0,0,0.023,0.028
+13,"Aethia psittacula ","Elena Yu. Golubova ",28,1987,2018,1265,1,1,0,0,-0.018,0.02
+14,"Aethia pusilla ","Pietrzak et al. (2017) ",29,1988,2017,1366,1,1,0,0,0.046,0.02
+15,"Aethia pygmaea ","Pietrzak et al. (2017) ",26,1991,2017,1599,1,1,0,0,0.036,0.025
+16,"Alca torda ","Robert T. Barrett ",21,1981,2013,1117,1,1,0,0,-0.043,0.022
+17,"Alectrurus risora ","Adrián S. Di Giacomo ",15,2004,2018,332,2,1,0,0,-0.057,0.062
+18,"Anous tenuirostris ","Ramos & Monticelli (2007) ",15,1987,2002,1717,1,1,0,0,-0.081,0.054
+19,"Apus apus ","Heikki Kolunen ",39,1979,2017,1092,1,0,0,1,0.015,0.014
+20,"Branta leucopsis ","Jouke Prop ",14,1978,2018,2291,1,1,0,0,-0.047,0.013
+21,"Bucephala clangula ","Hannu Pöysä ",23,1995,2017,643,1,0,0,1,-0.015,0.033
+22,"Bucorvus cafer ","Kate F. Carstens ",15,2001,2015,158,1,1,0,1,-0.01,0.058
+23,"Bulweria bulwerii ","Verónica C. Neves ",12,2002,2017,522,1,1,0,0,0.196,0.046
+24,"Calonectris borealis ","Joël Bried ",12,1994,2012,851,1,1,0,0,-0.014,0.067
+25,"Calonectris diomedea ","Daniel Oro ",18,2001,2018,2888,1,1,0,0,0.039,0.047
+26,"Calyptorhynchus lathami ","Morgan et al. (2015) ",20,1995,2014,1125,1,1,0,0,0.017,0.041
+27,"Calyptorhynchus latirostris ","Denis A. Saunders ",29,1970,2018,1843,1,0,0,0,0.002,0.012
+28,"Cerorhinca monocerata ","Watanuki & Ito (2012) ",21,1992,2009,798,1,1,0,0,-0.091,0.042
+29,"Cerorhinca monocerata ","Evans et al (2018) ",24,1994,2018,4180,1,1,0,0,0.114,0.018
+30,"Chroicocephalus ridibundus ","Dariusz Bukaciński ",21,1985,2018,5145,1,0,0,0,-0.008,0.021
+31,"Ciconia ciconia ","Andrzej Wuczyński ",29,1989,2017,625,1,0,0,0,-0.011,0.023
+32,"Ciconia ciconia ","Beata Orłowska ",19,1991,2014,1645,1,1,0,0,-0.007,0.037
+33,"Ciconia ciconia ","Marcin Tobolka ",31,1974,2017,8690,1,0,0,0,0.012,0.013
+34,"Ciconia ciconia ","Anna Chernomorets ",14,2004,2018,288,1,0,0,0,-0.14,0.05
+35,"Ciconia ciconia ","Irina E. Samusenko ",13,2004,2018,2386,1,0,0,0,-0.171,0.054
+36,"Circus cyaneus ","Alexandre Millon ",21,1993,2017,1572,1,0,1,0,-0.026,0.029
+37,"Circus pygargus ","Pascal Albert ",25,1993,2017,2673,1,0,1,0,-0.003,0.029
+38,"Circus pygargus ","Thierry Printemps ",19,2000,2018,817,1,0,1,0,-0.04,0.043
+39,"Circus pygargus ","Jarosław Wiącek ",16,1990,2012,125,1,1,0,0,-0.124,0.015
+40,"Clanga clanga ","Valery C. Dombrovski ",12,2001,2017,386,1,1,0,0,-0.052,0.072
+41,"Clanga pomarina ","Zbyryt et al (2015) ",17,1999,2015,360,1,1,0,0,-0.054,0.051
+42,"Colaptes auratus ","Karen L. Wiebe ",16,1998,2013,2063,1,0,0,0,-0.066,0.055
+43,"Corvus corone ","Vittorio Baglione ",16,1995,2018,1786,1,0,0,0,-0.016,0.031
+44,"Cyanistes caeruleus ","Jaime Potti ",30,1984,2017,659,1,1,0,1,0.003,0.019
+45,"Cyanistes caeruleus ","János Török ",11,1982,2014,789,1,0,0,1,0.017,0.019
+46,"Cyanistes caeruleus ","Jerzy Bańbura ",11,2003,2018,372,1,0,0,1,0.064,0.065
+47,"Cyanistes caeruleus ","Marcel E. Visser ",49,1970,2018,2575,1,1,0,1,-0.014,0.01
+48,"Cyanistes caeruleus ","Marcel E. Visser ",49,1970,2018,1144,1,1,0,1,0.024,0.01
+49,"Cyanistes caeruleus ","Marcel E. Visser ",48,1970,2018,1014,1,1,0,1,0.009,0.01
+50,"Cyanistes caeruleus ","Marcel E. Visser ",49,1970,2018,2401,2,1,0,1,-0.008,0.01
+51,"Cygnus bewickii ","Diana V. Solovyeva ",11,2004,2018,256,1,0,0,0,-0.049,0.089
+52,"Delichon urbicum ","Alfonso Marzal ",15,1985,2011,2004,2,0,0,0,-0.092,0.026
+53,"Diomedea exulans ","Richard A. Phillips ",38,1979,2016,42403,1,0,0,0,0.03,0.015
+54,"Falco naumanni ","Inês Catry ",16,2003,2018,5499,1,1,0,0,0.101,0.058
+55,"Falco tinnunculus ","Juan Antonio Fargallo ",23,1994,2017,678,1,1,0,1,-0.048,0.03
+56,"Ficedula albicollis ","Milos Krist ",17,1998,2017,1292,1,0,1,1,0.026,0.04
+57,"Ficedula albicollis ","Peter Adamík ",18,2000,2017,1379,1,0,1,1,0.028,0.048
+58,"Ficedula albicollis ","János Török ",34,1982,2015,7686,1,0,0,1,0.063,0.014
+59,"Ficedula hypoleuca ","Jaime Potti ",33,1984,2017,3818,1,1,0,1,0.029,0.017
+60,"Ficedula hypoleuca ","Tapio Eeva ",27,1991,2017,3124,1,0,1,1,0.003,0.026
+61,"Ficedula hypoleuca ","Alexander V. Artemyev ",38,1980,2017,3795,1,1,0,1,-0.015,0.015
+62,"Ficedula hypoleuca ","Marcel E. Visser ",49,1970,2018,4238,1,1,0,1,0.015,0.01
+63,"Ficedula hypoleuca ","E. Belskii. A. Lyakhov ",28,1989,2017,1617,1,0,0,1,-0.002,0.024
+64,"Ficedula hypoleuca ","Boris D. Kuranov ",28,1987,2018,1843,1,0,0,1,0.038,0.02
+65,"Ficedula hypoleuca ","Mirosława Bańbura ",11,2002,2018,254,1,0,0,1,0.049,0.074
+66,"Ficedula hypoleuca ","Indrikis Krams ",30,1989,2018,1978,1,0,0,1,-0.035,0.021
+67,"Fratercula arctica ","Robert T. Barrett ",29,1980,2013,1144,1,1,0,0,-0.059,0.017
+68,"Fratercula cirrhata ","Youngren et al. (2018) ",22,1995,2017,1398,1,1,0,0,0.032,0.032
+69,"Fratercula cirrhata ","Pietrzak et al. (2017) ",30,1988,2017,707,1,1,0,0,-0.008,0.022
+70,"Fratercula cirrhata ","Evans et al (2017) ",13,1976,2017,582,1,1,0,0,0.011,0.03
+71,"Fratercula cirrhata ","Elena Yu. Golubova ",28,1987,2018,1510,1,1,0,0,-0.019,0.02
+72,"Fratercula corniculata ","Youngren et al. (2018) ",16,1998,2017,179,1,1,0,0,0.043,0.046
+73,"Fratercula corniculata ","Pietrzak et al. (2017) ",30,1988,2017,1019,1,1,0,0,0.019,0.022
+74,"Fratercula corniculata ","Evans et al (2017) ",15,1976,2017,778,1,1,0,0,-0.013,0.029
+75,"Fratercula corniculata ","Elena Yu. Golubova ",28,1987,2018,2536,1,1,0,0,-0.004,0.02
+76,"Fulmarus glacialis ","Paul M. Thompson ",48,1970,2018,5946,1,0,0,0,-0.015,0.01
+77,"Gypaetus barbatus ","Antoni Margalida ",25,1992,2016,640,1,1,0,0,-0.084,0.023
+78,"Gypaetus barbatus ","Sonja Krüger ",17,2002,2018,228,1,0,0,0,-0.009,0.053
+79,"Haematopus bachmani ","Youngren et al. (2018) ",21,1997,2017,251,1,1,0,0,0.076,0.033
+80,"Haematopus ostralegus ","Martijn van de Pol ",30,1984,2013,4101,1,1,0,0,-0.058,0.019
+81,"Hirundo rustica ","Anders P. Møller ",35,1984,2018,4884,2,0,0,0,-0.047,0.015
+82,"Hirundo rustica ","Florentino de Lope ",10,1990,2006,779,2,0,0,0,0.111,0.056
+83,"Jynx torquilla ","Michael Schaub ",17,2002,2018,588,2,0,0,1,0.119,0.043
+84,"Lamprotornis superbus ","Dustin R. Rubenstein ",17,2002,2018,1135,2,0,0,0,-0.081,0.048
+85,"Larus canus ","Monika Bukacińska ",23,1983,2018,5666,1,0,0,0,-0.052,0.015
+86,"Larus crassirostris ","Watanuki & Ito (2012) ",21,1992,2009,1407,1,1,0,0,0.07,0.051
+87,"Larus glaucescens ","Youngren et al. (2018) ",23,1995,2017,2579,1,1,0,0,-0.075,0.029
+88,"Larus glaucescens ","Pietrzak et al. (2017) ",20,1997,2017,754,1,1,0,0,0.029,0.039
+89,"Larus glaucescens ","Evans et al (2017) ",15,1998,2017,2397,1,1,0,0,0.1,0.044
+90,"Larus glaucescens ","Evans et al (2018) ",24,1994,2018,2162,1,1,0,0,-0.027,0.03
+91,"Macronectes giganteus ","Andrew G. Wood ",17,1978,2017,3918,1,0,0,0,-0.05,0.014
+92,"Macronectes halli ","Andrew G. Wood ",17,1978,2017,7353,1,0,0,0,-0.045,0.015
+93,"Malurus elegans ","Lyanne Brouwer ",18,1980,2018,1226,2,1,0,0,-0.06,0.008
+94,"Margarops fuscatus ","Wayne J. Arendt ",19,1979,2000,998,2,1,0,1,-0.08,0.03
+95,"Melanerpes formicivorus ","Walter D. Koenig ",39,1980,2017,1133,2,1,0,0,0.027,0.015
+96,"Mergus squamatus ","Diana V. Solovyeva ",15,2004,2018,194,1,0,0,1,-0.026,0.064
+97,"Milvus migrans ","Fabrizio Sergio ",16,1989,2013,650,1,1,0,0,-0.003,0.034
+98,"Oceanodroma furcata ","Youngren et al. (2018) ",18,1995,2017,795,1,1,0,0,-0.044,0.039
+99,"Oceanodroma furcata ","Pietrzak et al. (2017) ",32,1974,2017,1790,1,1,0,0,0.011,0.016
+100,"Oceanodroma furcata ","Kettle (2017) ",17,1998,2016,1519,1,1,0,0,0.125,0.037
+101,"Oceanodroma furcata ","Evans et al (2018) ",23,1995,2018,2809,1,1,0,0,0.027,0.032
+102,"Oceanodroma furcata ","Drummond & Williams (2015) ",15,1996,2015,594,1,1,0,0,0.01,0.053
+103,"Oceanodroma leucorhoa ","Youngren et al. (2018) ",18,1995,2017,1332,1,1,0,0,0.019,0.041
+104,"Oceanodroma leucorhoa ","Pietrzak et al. (2017) ",32,1974,2017,1859,1,1,0,0,0.057,0.012
+105,"Oceanodroma leucorhoa ","Evans et al (2018) ",23,1995,2018,2141,1,1,0,0,-0.001,0.032
+106,"Oceanodroma monteiroi ","Mark Bolton ",19,2000,2018,985,1,1,0,1,-0.065,0.041
+107,"Oenanthe oenanthe ","Debora Arlt ",26,1993,2018,1390,1,0,0,0,-0.015,0.027
+108,"Pachyptila belcheri ","Petra Quillfeldt ",10,2002,2018,748,1,1,0,0,-0.042,0.064
+109,"Panurus biarmicus ","Janusz Stępniewski ",10,1988,2018,242,2,0,0,0,0.027,0.028
+110,"Parus major ","Marcel E. Visser ",49,1970,2018,7749,2,1,0,1,-0.026,0.01
+111,"Parus major ","Marcel E. Visser ",49,1970,2018,2419,2,1,0,1,-0.011,0.01
+112,"Parus major ","Marcel E. Visser ",49,1970,2018,2538,2,1,0,1,-0.03,0.009
+113,"Parus major ","Marcel E. Visser ",49,1970,2018,9344,2,1,0,1,-0.032,0.009
+114,"Parus major ","Juan C. Senar ",21,1998,2018,928,2,1,1,1,0.062,0.035
+115,"Parus major ","Emilio Barba ",23,1993,2015,2677,2,0,0,1,0.076,0.028
+116,"Parus major ","János Török ",33,1982,2014,1509,1,0,0,1,0.043,0.017
+117,"Parus major ","Indrikis Krams ",30,1989,2018,2426,2,0,0,1,0.012,0.022
+118,"Passer domesticus ","David F. Westneat ",26,1993,2018,4674,2,0,1,1,-0.042,0.026
+119,"Passerculus sandwichensis ","Nathaniel T. Wheelwright ",19,1987,2005,1678,2,1,0,0,-0.017,0.048
+120,"Perisoreus infaustus ","Michael Griesser ",18,1990,2013,503,1,0,0,0,0.045,0.037
+121,"Phaethon lepturus ","Ramos et al. (2005) ",10,1989,2002,661,1,1,0,0,0.027,0.078
+122,"Phalacrocorax auritus ","Youngren et al. (2018) ",12,2000,2017,206,1,1,0,0,-0.04,0.064
+123,"Phalacrocorax capillatus ","Watanuki & Ito (2012) ",21,1992,2009,924,1,1,0,0,-0.059,0.046
+124,"Phalacrocorax pelagicus ","Youngren et al. (2018) ",16,1995,2017,400,1,1,0,0,-0.051,0.038
+125,"Phalacrocorax pelagicus ","Pietrzak et al. (2017) ",26,1974,2017,1227,1,1,0,0,0.019,0.023
+126,"Phalacrocorax pelagicus ","Evans et al (2018) ",22,1995,2016,2610,1,1,0,0,-0.066,0.032
+127,"Phalacrocorax pelagicus ","Hatch (2017) ",16,2002,2017,1440,1,1,0,0,-0.044,0.057
+128,"Phalacrocorax urile ","Youngren et al. (2018) ",13,1997,2017,828,1,1,0,0,-0.024,0.052
+129,"Phalacrocorax urile ","Pollom et al. (2018) ",18,2000,2017,903,1,1,0,0,-0.066,0.045
+130,"Phalacrocorax urile ","Mong et al. (2017) ",33,1975,2017,2071,1,1,0,0,0.017,0.014
+131,"Phalacrocorax urile ","Drummond & Williams (2015) ",12,1997,2015,482,1,1,0,0,-0.017,0.063
+132,"Philetairus socius ","Rita Covas ",10,1999,2017,4683,2,1,0,0,0.02,0.059
+133,"Phoebastria immutabilis ","Donald C. Dearborn ",19,1980,1998,22871,1,1,0,0,0.019,0.044
+134,"Phoebastria nigripes ","Donald C. Dearborn ",18,1981,1998,11464,1,1,0,0,0.103,0.041
+135,"Phoenicurus phoenicurus ","Jiří Porkert ",15,1994,2014,267,2,0,0,1,-0.018,0.044
+136,"Phoenicurus phoenicurus ","Sergey I. Gashkov ",24,1995,2018,383,1,0,0,1,0.032,0.03
+137,"Plectrophenax nivalis ","Yngve Espmark ",16,1998,2013,1273,1,0,0,0,0.058,0.056
+138,"Podiceps grisegena ","Janusz Kloskowski ",19,1996,2014,435,1,0,0,0,0.075,0.04
+139,"Protonotaria citrea ","Jeffrey P. Hoover ",19,1994,2012,6969,2,1,0,1,0.056,0.042
+140,"Protonotaria citrea ","Lesley Bulluck ",23,1995,2017,3286,2,0,0,1,0.064,0.03
+141,"Pygoscelis adeliae ","Louise M. Emmerson ",19,1990,2008,37093,1,1,0,0,-0.073,0.041
+142,"Pygoscelis adeliae ","Michael J. Dunn ",22,1996,2018,35489,1,1,0,0,0.033,0.034
+143,"Pygoscelis antarcticus ","Małgorzata Korczak-Abshire ",17,1977,2017,7634,1,1,0,0,-0.003,0.021
+144,"Rissa brevirostris ","Pietrzak et al. (2017) ",30,1988,2017,3197,1,1,0,0,0.015,0.022
+145,"Rissa brevirostris ","Pollom et al. (2018) ",35,1981,2017,18534,1,1,0,0,-0.004,0.017
+146,"Rissa brevirostris ","Mong et al. (2017) ",35,1975,2017,1385,1,1,0,0,0.023,0.02
+147,"Rissa tridactyla ","Turner (2010, 2016, 2017) ",17,2000,2017,15408,1,0,0,0,0.01,0.048
+148,"Rissa tridactyla ","Robert T. Barrett ",30,1980,2013,42202,1,1,0,0,-0.058,0.017
+149,"Rissa tridactyla ","Mong et al. (2017) ",35,1975,2017,11528,1,1,0,0,-0.021,0.013
+150,"Rissa tridactyla ","Murphy et al. (2016) ",31,1975,2008,5065,1,1,0,0,-0.008,0.018
+151,"Rissa tridactyla ","Pietrzak et al. (2017) ",30,1988,2017,9894,1,1,0,0,0.006,0.022
+152,"Rissa tridactyla ","Dragoo et al. (2017) ",23,1983,2017,3811,1,1,0,0,-0.032,0.025
+153,"Rissa tridactyla ","Evans et al (2017) ",22,1979,2017,5015,1,1,0,0,-0.016,0.018
+154,"Rissa tridactyla ","Kettle (2017) ",22,1993,2016,7382,1,1,0,0,-0.066,0.032
+155,"Rissa tridactyla ","Pollom et al. (2018) ",35,1981,2017,8654,1,1,0,0,0.005,0.017
+156,"Rissa tridactyla ","Hatch (2017) ",22,1996,2017,2958,1,1,0,0,-0.027,0.035
+157,"Rissa tridactyla ","Elena Yu. Golubova ",28,1988,2018,3085,1,1,0,0,-0.055,0.019
+158,"Rissa tridactyla ","Drummond & Williams (2015) ",12,1996,2010,4359,1,1,0,0,0.042,0.076
+159,"Somateria fischeri ","Diana V. Solovyeva ",16,2002,2018,1088,1,0,0,0,-0.09,0.048
+160,"Somateria mollissima ","Markus Öst ",15,2002,2018,3367,1,1,0,0,-0.113,0.054
+161,"Sterna dougallii ","Seward et al (2018) ",25,1992,2016,1552,1,1,0,0,-0.017,0.029
+162,"Sterna dougallii ","Seward et al (2018) ",25,1992,2016,5672,1,1,0,0,-0.079,0.024
+163,"Sterna dougallii ","Seward et al (2018) ",20,1992,2016,1876,1,1,0,0,0.007,0.033
+164,"Sterna dougallii ","Jaime A. Ramos ",21,1987,2010,8144,1,1,0,0,0.006,0.035
+165,"Sterna hirundo ","Peter H. Becker ",26,1992,2017,4077,1,1,1,0,-0.051,0.025
+166,"Strix aluco ","Tapio Solonen ",25,1988,2017,605,1,0,0,1,0.024,0.024
+167,"Strix aluco ","Patrik Karell ",40,1979,2018,1025,1,0,0,1,-0.022,0.014
+168,"Strix aluco ","Xavier Lambin ",31,1980,2010,1106,1,0,0,1,-0.008,0.021
+169,"Strix uralensis ","Hannu Pietiäinen ",41,1977,2017,1798,1,0,0,1,0.009,0.013
+170,"Sturnus unicolor ","Vicente Polo ",17,2001,2017,1216,2,1,0,1,0.021,0.052
+171,"Sturnus vulgaris ","Alexander Numerov ",20,1990,2017,337,1,0,0,1,0.017,0.03
+172,"Sula nebouxii ","Hugh Drummond ",26,1993,2018,22221,1,1,0,0,-0.052,0.025
+173,"Synthliboramphus antiquus ","Youngren et al. (2018) ",27,1997,2017,1201,1,1,0,0,0.079,0.033
+174,"Synthliboramphus antiquus ","Elena Yu. Golubova ",27,1988,2018,1932,1,1,0,0,0.044,0.022
+175,"Tachycineta bicolor ","Michael P. Lombardo ",27,1992,2018,1689,1,0,1,1,0.003,0.026
+176,"Tachycineta bicolor ","Nathaniel T. Wheelwright ",20,1987,2006,885,1,1,0,1,0.005,0.041
+177,"Tachymarptis melba ","Pierre Bize ",20,1999,2018,948,1,0,1,0,0.016,0.041
+178,"Tachymarptis melba ","Pierre Bize ",19,2000,2018,1445,1,0,1,0,-0.027,0.044
+179,"Tetrao tetrix ","Wegge & Rolstad (2017) ",38,1979,2016,842,1,0,0,0,0.032,0.014
+180,"Tetrao urogallus ","Wegge & Rolstad (2017) ",38,1979,2016,1018,1,0,0,0,0.034,0.014
+181,"Tetrao urogallus ","Moss et al. (2001) ",24,1975,1998,320,1,0,0,0,-0.095,0.023
+182,"Thalassarche chrysostoma ","Richard A. Phillips ",28,1989,2016,4954,1,0,0,0,-0.028,0.024
+183,"Thalassarche melanophris ","Richard A. Philiips ",35,1983,2017,11941,1,0,0,0,0.005,0.018
+184,"Troglodytes aedon ","E. Keith Bowers ",39,1980,2018,13418,2,1,1,1,0.014,0.014
+185,"Turdus merula ","Dariusz Wysocki ",21,1997,2017,2320,2,0,0,0,-0.031,0.037
+186,"Tyto alba ","Alexandre Roulin ",28,1990,2017,1564,2,0,0,1,0.033,0.023
+187,"Tyto alba ","Motti Charter ",15,2002,2016,1878,1,0,0,1,-0.072,0.061
+188,"Uria aalge ","Mike P. Harris ",36,1982,2017,28649,1,1,0,0,-0.035,0.015
+189,"Uria aalge ","Mong et al. (2017) ",31,1976,2017,3765,1,1,0,0,-0.039,0.015
+190,"Uria aalge ","Youngren et al. (2018) ",22,1995,2017,805,1,1,0,0,-0.028,0.033
+191,"Uria aalge ","Evans et al (2017) ",22,1979,2017,4765,1,1,0,0,-0.024,0.018
+192,"Uria aalge ","Evans et al (2018) ",24,1994,2018,1650,1,1,0,0,-0.018,0.03
+193,"Uria aalge ","Pollom et al. (2018) ",34,1978,2017,3366,1,1,0,0,-0.033,0.016
+194,"Uria aalge ","Elena Yu. Golubova ",21,1987,2018,4411,1,1,0,0,-0.029,0.027
+195,"Uria lomvia ","Pollom et al. (2018) ",35,1981,2017,21764,1,1,0,0,-0.049,0.015
+196,"Uria lomvia ","Mong et al. (2017) ",33,1976,2017,11065,1,1,0,0,-0.025,0.014
+197,"Uria lomvia ","Youngren et al. (2018) ",22,1995,2017,500,1,1,0,0,-0.053,0.031
+198,"Uria lomvia ","Pietrzak et al. (2017) ",30,1988,2017,7625,1,1,0,0,-0.07,0.017
+199,"Uria lomvia ","Evans et al (2017) ",22,1979,2017,2699,1,1,0,0,-0.031,0.017
+200,"Uria lomvia ","Evans et al (2018) ",24,1994,2018,949,1,1,0,0,0.005,0.03
+201,"Uria lomvia ","Elena Yu. Golubova ",21,1987,2018,1436,1,1,0,0,-0.012,0.027
